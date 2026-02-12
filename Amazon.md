@@ -9,4 +9,6 @@ update profile
 update password
 logout
 filter
-payment
+payment modes
+share
+upload a image and find similar products
